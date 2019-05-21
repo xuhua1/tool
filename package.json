@@ -1,0 +1,44 @@
+{
+  "name": "tool",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ali-oss": "^6.1.1",
+    "antd": "^3.16.5",
+    "babel-plugin-import": "^1.11.0",
+    "crypto-js": "^3.1.9-1",
+    "customize-cra": "^0.2.12",
+    "dom-to-image": "^2.6.0",
+    "highlight.js": "^9.15.6",
+    "marked": "^0.6.2",
+    "qrcodejs2": "^0.0.2",
+    "react": "^16.8.6",
+    "react-app-rewired": "^2.1.1",
+    "react-dom": "^16.8.6",
+    "react-mathjax": "^1.0.1",
+    "react-motion": "^0.5.2",
+    "react-redux": "^7.0.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "relationship.js": "^1.0.0",
+    "styled-components": "^4.2.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
